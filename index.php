@@ -8,6 +8,7 @@
 </head>
 <body>
     <img src="file.php?name=troll.jpeg">
+    <p>key: 8e0235134a366ae5e687525ce5f71c0d</p>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
 </body>
 </html>
